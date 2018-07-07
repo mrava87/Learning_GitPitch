@@ -1,3 +1,4 @@
+?color=#ffffff
 # Basic page 
 
 An application architecture for React
@@ -39,7 +40,7 @@ The *same syntax* you use to create project
 #### Even More details
 
 
----?color=#e49436
+---?color=#ffffff
 @title[Colored page]
 
 # @size[3.5em](OK)
