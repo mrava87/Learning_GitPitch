@@ -31,11 +31,12 @@ background-color: #bbff00;    /* Fully opaque */
 }
 
 /*
-put text on left for all slides
+put text on left
 .reveal .slides {
     text-align: left;
 }
 */
+
 .reveal .slides section .code-presenting-annotation {
   color: white !important;
   background: #1f1c18;
