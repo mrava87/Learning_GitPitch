@@ -78,11 +78,6 @@ The *same syntax* you use to create project
 
 ![](assets/images/Video.gif)
 
-<!--- does not work unless Pro
-+++
-@title[MP4]
-
-![MP4 Video](assets/images/Video.mp4)
-—>
+Note: ![MP4 Video](assets/images/Video.mp4) does not work unless Pro.
 
 
