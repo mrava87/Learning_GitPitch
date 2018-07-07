@@ -23,8 +23,10 @@ The *same syntax* you use to create project
 **READMEs** and **Wikis** for your Git repos.
 
 ---
-
-
+?image=images/test.jpg&size=65% 100%&position=left&color=#ff3300
+##Awesome
+#PHOTO
+####IN TUSCANY
 
 ---
 
