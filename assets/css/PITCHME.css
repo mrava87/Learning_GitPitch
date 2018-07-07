@@ -5,6 +5,8 @@
  * https://github.com/gitpitch/gitpitch/wiki/Slideshow-Custom-CSS
  */
 
+background-color : #ffffff
+
 .title-top-right {
     position: fixed;
     top: 70px;
