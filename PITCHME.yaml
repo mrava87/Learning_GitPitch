@@ -1,12 +1,13 @@
 theme : night
 
+background-color : #74992e;
+
 layout : center-right
 
 logo : assets/images/logo.png
 
 theme-override : assets/css/PITCHME.css
 
-background-color : #ffffff
 
 transition : none
 
