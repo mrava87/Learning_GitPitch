@@ -1,10 +1,11 @@
-# Flux 
+# Basic page 
 
 An application architecture for React
 
 ---
+@title[Page down]
 
-### Flux Design
+### Example with page down
 
 - Dispatcher: Manages Data Flow
 - Stores: Handle State & Logic
@@ -22,13 +23,22 @@ An application architecture for React
 The *same syntax* you use to create project   
 **READMEs** and **Wikis** for your Git repos.
 
+
+---?color=#e49436
+@title[Colored page]
+
+# @size[3.5em](OK)
+
+
 ---?image=assets/images/test.jpg&size=65% 100%&position=left
-@title[Code Talking]
+@title[Figure from png]
 
 ### Awesome
 # PHOTO
 #### IN TUSCANY
 
+
 ---
+@title[Figure from web]
 
 ![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
