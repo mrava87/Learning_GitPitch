@@ -10,6 +10,22 @@ An application architecture for React
 - Stores: Handle State & Logic
 - Views: Render Data via React
 
+@fa[arrow-down]
+
++++
+@title[Test]
+
+#### More details
+
+<br>
+
+The *same syntax* you use to create project   
+**READMEs** and **Wikis** for your Git repos.
+
+---
+
+
+
 ---
 
 ![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
