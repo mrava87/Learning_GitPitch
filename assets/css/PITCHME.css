@@ -16,6 +16,7 @@ background-color: #bbff00;    /* Fully opaque */
     font-weight: normal !important;
     line-height: 1.2 !important;
     letter-spacing: -0.03em !important;
+    font-family: "Montserrat", Impact, sans-serif !important;
 }
 
 .reveal p span.slide-title {
