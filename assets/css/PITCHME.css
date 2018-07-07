@@ -30,12 +30,10 @@ background-color: #bbff00;    /* Fully opaque */
   font-family: "Montserrat", Impact, sans-serif !important;
 }
 
-/*
 put text on left
 .reveal .slides {
-    text-align: left;
+    color: #000000;
 }
-*/
 
 .reveal .slides section .code-presenting-annotation {
   color: white !important;
