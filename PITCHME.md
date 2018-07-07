@@ -43,7 +43,7 @@ The *same syntax* you use to create project
 ---?color=#ffffff
 @title[Colored page]
 
-# @size[3.5em](OK)
+# @size[3.5em](NO!)
 
 ---
 @title[Use CSS defined title]
