@@ -23,6 +23,22 @@ An application architecture for React
 The *same syntax* you use to create project   
 **READMEs** and **Wikis** for your Git repos.
 
++++
+@title[Test]
+
+#### More details
+
+<br>
+
+The *same syntax* you use to create project   
+**READMEs** and **Wikis** for your Git repos.
+
+
++++
+@title[One more]
+
+#### Even More details
+
 
 ---?color=#e49436
 @title[Colored page]
@@ -33,7 +49,6 @@ The *same syntax* you use to create project
 @title[Use CSS defined title]
 
 @css[title-top-right](Top-right-title)
-
 
 
 ---?image=assets/images/test.jpg&size=65% 100%&position=left
@@ -48,3 +63,25 @@ The *same syntax* you use to create project
 @title[Figure from web]
 
 ![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
+
+---
+@title[Embed Video]
+## Video Slides
+## [ Inline ]
+<span style="font-size:0.6em; color:gray">Press Down key for examples.</span> |
+<span style="font-size:0.6em; color:gray">See [GitPitch Wiki](https://github.com/gitpitch/gitpitch/wiki/Video-Slides) for details.</span>
+
+@fa[arrow-down]
+
++++
+@title[MP4]
+
+![](assets/images/Video.gif)
+
++++
+@title[MP4]
+
+![MP4 Video](assets/images/Video.mp4)
+
+
+
