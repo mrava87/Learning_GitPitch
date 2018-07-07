@@ -32,7 +32,7 @@ background-color: #bbff00;    /* Fully opaque */
 
 put text on left
 .reveal .slides {
-    color: #000000;
+    text-color: #000000;
 }
 
 .reveal .slides section .code-presenting-annotation {
