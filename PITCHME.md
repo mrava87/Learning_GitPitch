@@ -2,14 +2,24 @@
 
 An application architecture for React
 
+- Item1
+- Item2
+- Item3
+
+---
+@title[Statement]
+
+### Let your
+## @css[shoutout](Code)
+#### Do The Talking
+
+
 ---
 @title[Page down]
 
 ### Example with page down
 
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
+
 
 @fa[arrow-down]
 
@@ -67,6 +77,6 @@ The *same syntax* you use to create project
 
 ![](assets/images/Video.gif)
 
-Note: ![MP4 Video](assets/images/Video.mp4) does not work unless Pro.
+Note: ![MP4 Video](assets/images/Video.mp4) does not work unless Pro. Add this at the end of link to see notes in main screen ?n=true
 
 
