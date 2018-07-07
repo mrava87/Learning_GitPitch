@@ -6,7 +6,7 @@ logo : assets/images/logo.png
 
 theme-override : assets/css/PITCHME.css
 
-background-color : #ffffff;
+background-color : #ffffff
 
 transition : none
 
