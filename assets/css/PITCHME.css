@@ -31,8 +31,10 @@ background-color: #bbff00;    /* Fully opaque */
 }
 
 .reveal .slides {
-    text-color: #000000;
+    text-align: left;
+    color: #000000;
 }
+
 
 .reveal .slides section .code-presenting-annotation {
   color: white !important;
