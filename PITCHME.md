@@ -24,17 +24,6 @@ The *same syntax* you use to create project
 **READMEs** and **Wikis** for your Git repos.
 
 +++
-@title[Test]
-
-#### More details
-
-<br>
-
-The *same syntax* you use to create project   
-**READMEs** and **Wikis** for your Git repos.
-
-
-+++
 @title[One more]
 
 #### Even More details
