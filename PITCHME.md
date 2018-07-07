@@ -22,7 +22,7 @@ An application architecture for React
 The *same syntax* you use to create project   
 **READMEs** and **Wikis** for your Git repos.
 
----?image=images/test.jpg&size=65% 100%&position=left
+---?image=assets/images/test.jpg&size=65% 100%&position=left
 @title[Code Talking]
 
 ### Awesome
