@@ -29,6 +29,12 @@ The *same syntax* you use to create project
 
 # @size[3.5em](OK)
 
+---
+@title[Use CSS defined title]
+
+@css[title-top-right](Top-right-title)
+
+
 
 ---?image=assets/images/test.jpg&size=65% 100%&position=left
 @title[Figure from png]
