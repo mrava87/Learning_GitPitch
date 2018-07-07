@@ -1,6 +1,8 @@
-theme : night
+theme : simple
 
 layout : center-right
+
+logo : assets/images/logo.png
 
 theme-override : assets/css/PITCHME.css
 
