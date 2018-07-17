@@ -65,17 +65,18 @@ The *same syntax* you use to create project
 
 
 ---?color=black
+<br>
 @snap[north]
 @size[0.6em]@color[red](Layout images side-by-side)
 @snapend
 
 @div[left-50]
-<br><br>
+<br>
 ![FIG1](assets/images/test.jpg)
 @divend
 
 @div[right-50]
-<br><br>
+<br>
 ![FIG2](assets/images/test.jpg)
 @divend
 
