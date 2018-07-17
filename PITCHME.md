@@ -72,6 +72,8 @@ The *same syntax* you use to create project
 @div[left-50]
 <br>
 ![FIG1](assets/images/test.jpg)
+@size[0.5em]@color[white](Fig1)
+
 @divend
 
 @div[right-50]
