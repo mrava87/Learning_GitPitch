@@ -65,7 +65,9 @@ The *same syntax* you use to create project
 
 
 ---?color=black
-### @color[white](Layout images side-by-side)
+@snap[north-east]
+@size[0.6em]@color[white](Layout images side-by-side)
+@snapend
 
 @div[left-50]
 <br><br>
