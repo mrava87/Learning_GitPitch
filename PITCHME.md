@@ -58,11 +58,25 @@ The *same syntax* you use to create project
 # PHOTO
 #### IN TUSCANY
 
-
 ---
 @title[Figure from web]
 
 ![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
+
+
+---?color=black
+### @color[white](Layout images side-by-side)
+
+@div[left-50]
+<br><br>
+![FIG1](assets/images/test.jpg)
+@divend
+
+@div[right-50]
+<br><br>
+![FIG2](assets/images/test.jpg)
+@divend
+
 
 ---
 @title[Embed Video]
