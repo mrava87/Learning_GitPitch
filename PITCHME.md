@@ -3,7 +3,7 @@
 
 An application architecture for React
 
-- Item1
+- Ciao
 - Item2
 - Item3
 
@@ -66,7 +66,7 @@ The *same syntax* you use to create project
 
 ---?color=black
 @snap[north]
-# Layout images side-by-side
+# @color[red](Layout images side-by-side)
 @snapend
 
 @div[left-50]
@@ -97,5 +97,24 @@ The *same syntax* you use to create project
 ![](assets/images/Video.gif)
 
 Note: ![MP4 Video](assets/images/Video.mp4) does not work unless Pro. Add this at the end of link to see notes in main screen ?n=true
+
+
+---?image=assets/images/workflow.eps&size=45% 80%&position=left&color=#B8DDDE
+@title[Workflow]
+
+## Test with eps
+
++++?image=assets/images/workflow1.png&size=45% 80%&position=left&color=#B8DDDE
+@title[Workflow]
+
+## Test with png
+
++++?image=assets/images/workflow1.jpg&size=45% 80%&position=left&color=#B8DDDE
+@title[Workflow]
+
+## Test with jpg
+
+
+
 
 
