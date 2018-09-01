@@ -101,4 +101,9 @@ li {
   text-align: center !important;
 }
 
+.centered-content img {
+  width: 70%;
+}
+
+
 img[alt=fig1] { height: 400px; }
