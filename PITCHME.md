@@ -124,17 +124,17 @@ Note: ![MP4 Video](assets/images/Video.mp4) does not work unless Pro. Add this a
 ---?color=#B8DDDE
 @title[3images]
 @snap[west centered-content]
-![fig1](assets/images/vertical.png)
+![fig1](assets/images/vertical1.png)
 </br>
 @css[gold](**Fig1**)
 @snapend
 @snap[midpoint centered-content]
-![fig1](assets/images/vertical.png)
+![fig1](assets/images/vertical1.png)
 </br>
 @css[gold](**Fig2**)
 @snapend
 @snap[east centered-content]
-![fig1](assets/images/vertical.png)
+![fig1](assets/images/vertical1.png)
 </br>
 @css[gold](**Fig3**)
 @snapend
