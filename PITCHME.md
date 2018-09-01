@@ -104,15 +104,43 @@ Note: ![MP4 Video](assets/images/Video.mp4) does not work unless Pro. Add this a
 
 ## Test with eps
 
-+++?image=assets/images/workflow1.png&size=45% 80%&position=left&color=#B8DDDE
++++?image=assets/images/workflow.png&size=45% 80%&position=left&color=#B8DDDE
 @title[Workflow]
 
 ## Test with png
 
+
++++?image=assets/images/workflow1.png&size=45% 80%&position=left&color=#B8DDDE
+@title[Workflow]
+
+## Test with png1
+
 +++?image=assets/images/workflow1.jpg&size=45% 80%&position=left&color=#B8DDDE
 @title[Workflow]
 
-## Test with jpg
+## Test with jpg1
+
+
+---?color=#B8DDDE
+@title[3images]
+@snap[west centered-content]
+![fig1](assets/images/vertical.png)
+</br>
+@css[gold](**Fig1**)
+@snapend
+@snap[midpoint centered-content]
+![fig1](assets/images/vertical.png)
+</br>
+@css[gold](**Fig2**)
+@snapend
+@snap[east centered-content]
+![fig1](assets/images/vertical.png)
+</br>
+@css[gold](**Fig3**)
+@snapend
+
+
+
 
 
 

@@ -95,3 +95,10 @@ li {
 .reveal .slides section .code-presenting-annotation {
   color: gray;
 }
+
+
+.centered-content {
+  text-align: center !important;
+}
+
+img[alt=fig1] { height: 400px; }
